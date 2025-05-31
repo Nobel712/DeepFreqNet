@@ -1,1 +1,1 @@
-Architecture overview of DeepFreqNet
+### Architecture overview of DeepFreqNet
