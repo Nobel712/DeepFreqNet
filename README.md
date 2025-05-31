@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 
 ### Dataset links
- 1.Bangla Sign Language (BSL)\\
+ 1.Bangla Sign Language (BSL)
  https://www.kaggle.com/datasets/smnuruzzaman/bangla-sign-language-bsl/data
  2. BdSL40 Dataset
  https://github.com/Patchwork53/BdSL40_Dataset_AI_for_Bangla_2.0_Honorable_Mention
