@@ -72,8 +72,8 @@ def save_and_display_gradcam(img_path, heatmap, cam_path="cam.jpg", alpha=0.4):
 
     return cam_path
 
-preprocess_input = tf.keras.applications.mobilenet_v2.preprocess_input
-decode_predictions = tf.keras.applications.mobilenet_v2.decode_predictions
+preprocess_input = ""
+decode_predictions = ""
 
 last_conv_layer_name = "conv1d_1 (Conv1D)"
 img_size = (224,224)
